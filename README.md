@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ankit Kumar<br><br>- 📚 I'm currently learning Next js , redux</p>
+<p align="left">I'm Ankit Kumar<br><br>- 📚 I'm currently learning Next js</p>
 
 ###
 
