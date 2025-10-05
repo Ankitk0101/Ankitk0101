@@ -1,103 +1,103 @@
 <div align="center">
-  <img height="300" src="https://thumbs.dreamstime.com/b/coder-programmer-education-information-technology-concept-puzzled-person-learning-code-flat-modern-illustration-isolated-white-312084250.jpg"  />
+  <img height="300" src="https://thumbs.dreamstime.com/b/coder-programmer-education-information-technology-concept-puzzled-person-learning-code-flat-modern-illustration-isolated-white-312084250.jpg" alt="Programming Illustration" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ankit-kumar200/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="ankit933480@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:ankit933480@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
+  <a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" />
+  </a>
+  <a href="https://github.com/Ankitk0101" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankitk0101.ankitk0101&"  />
+  <img src="https://komarev.com/ghpvc/?username=ankitk0101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hello World! 👋 I'm Ankit Kumar</h1>
+
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | Problem Solver</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+I'm a passionate Full Stack Developer with expertise in modern web technologies. I love transforming complex problems into simple, beautiful, and intuitive solutions. Currently, I'm diving deeper into **Next.js** and building scalable applications.
 
-<p align="left">I'm Ankit Kumar<br><br>- 📚 I'm currently learning Next js</p>
+- 🌱 **Currently Learning:** Advanced Next.js, System Design
+- 💼 **Open to:** Full-time opportunities and freelance projects
+- 🎯 **Focus:** Building performant, user-friendly web applications
+- ⚡ **Fun Fact:** I enjoy solving coding challenges and contributing to open source
 
-###
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### Frontend Development
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" alt="Frontend Technologies" />
 </div>
 
-###
+### Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,python" alt="Backend Technologies" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+### Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,postman" alt="Tools & Platforms" />
+</div>
 
-###
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitk0101&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitk0101&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitk0101&theme=radical&hide_border=true" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitk0101&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+ 
+## 📫 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just having a tech chat!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ankit-kumar200/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <a href="ankit933480@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:ankit933480@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
+  </a>
+  <a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/web/default.svg" width="52" height="40" alt="portfolio" />
+  </a>
+  <a href="https://github.com/Ankitk0101" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
+
+### 💻 **Code. Create. Innovate.**
 
 <img src="https://raw.githubusercontent.com/ankitk0101/ankitk0101/output/snake.svg" alt="Snake animation" />
 
-###
+⭐ **Feel free to star my repositories if you find them interesting!**
+
+</div>
