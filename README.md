@@ -85,9 +85,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
   <a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/web/default.svg" width="52" height="40" alt="portfolio" />
   </a>
-  <a href="https://github.com/Ankitk0101" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github" />
-  </a>
 </div>
 
 ---
