@@ -25,7 +25,7 @@
 ---
 
 <h1 align="center">👋 Hello World, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem solver</h3>
 
 ---
 
