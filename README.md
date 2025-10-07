@@ -33,8 +33,7 @@
 
 I'm a dedicated **Full Stack Developer** from Bihar, India, passionate about creating efficient, scalable, and beautiful web applications.  
 Currently pursuing **MERN stack development** at Masai School, I enjoy working with both frontend and backend technologies.  
-When I’m not coding, I solve DSA problems, write about tech, or contribute to open-source.
-
+ 
 - 🌱 **Currently Exploring:** Advanced Next.js, TypeScript, System Design  
 - 💼 **Looking For:** Full-time Developer Roles & Freelance Projects  
 - 💬 **Ask Me About:** React, Node.js, Express, MongoDB, Firebase  
