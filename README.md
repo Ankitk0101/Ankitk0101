@@ -57,31 +57,24 @@ When I’m not coding, I solve DSA problems, write about tech, or contribute to 
 
 ## 📌 Pinned Projects
 
-### 🧭 [TravelPath - Destination Recommendation Platform](https://destination-recommendation-platform-3.onrender.com)
-A full-stack travel app helping users discover optimal routes between destinations with multiple transport options.  
-**Tech:** React, Node.js, Express, MongoDB, TailwindCSS  
-📝 *[Repository](https://github.com/ankitk0101/TravelPath)* • 🌐 *[Live Demo](https://destination-recommendation-platform-3.onrender.com)*  
+### 🧭 [Habit Tracker](https://habit-traker-ankit-kumar.netlify.app/)
+Habit Tracker is a full-stack web application designed to help users build and maintain positive habits.  
+**Tech:** React, Firebase  
+📝 *[Repository](https://github.com/Ankitk0101/habit-tracking)* • 🌐 *[Live Demo](https://habit-traker-ankit-kumar.netlify.app/)*  
 
 ---
 
-### 🛒 [ShopEase - E-commerce Platform](https://shopease-mern.vercel.app)
-A scalable e-commerce solution with role-based access for users & vendors using Firebase and React.  
-**Tech:** React, Firebase, Redux, Node.js  
-📝 *[Repository](https://github.com/ankitk0101/ShopEase)* • 🌐 *[Live Demo](https://shopease-mern.vercel.app)*  
+### 🌍 [TravelPath - Destination Recommendation Platform](https://destination-recommendation-platform-3.onrender.com/)
+TravelPath is a full-stack app that helps travelers plan optimal routes between destinations with multiple transport options and station details.  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+📝 *[Repository](https://github.com/Ankitk0101/Destination-Recommendation-Platform)* • 🌐 *[Live Demo](https://destination-recommendation-platform-3.onrender.com/)*  
 
 ---
 
-### 💬 [FeedbackPro - Smart Feedback Dashboard](https://feedbackpro.vercel.app)
-An interactive dashboard to collect, analyze, and visualize feedback using Redux and Chart.js.  
-**Tech:** React, Redux Toolkit, ShadCN UI, Chart.js  
-📝 *[Repository](https://github.com/ankitk0101/FeedbackPro)* • 🌐 *[Live Demo](https://feedbackpro.vercel.app)*  
-
----
-
-### 👨‍💻 [TaskBoard - Real-time Collaboration Tool](https://collab-taskboard.vercel.app)
-A collaborative MERN-based task management system with drag-and-drop, real-time sync, and role-based auth.  
-**Tech:** React, Node.js, Express, MongoDB, Socket.io  
-📝 *[Repository](https://github.com/ankitk0101/Collaborative-TaskBoard)* • 🌐 *[Live Demo](https://collab-taskboard.vercel.app)*  
+### 🏠 [Smart Home System](https://smart-home-ankit-kumar.netlify.app/)
+A React + Firebase-based smart home control system for managing device states and status in real-time.  
+**Tech:** React, Firebase  
+📝 *[Repository](https://github.com/masai-course/ankit_kumar_fs42_471001/tree/master/unit-4/BuildWeek/smartHome)* • 🌐 *[Live Demo](https://smart-home-ankit-kumar.netlify.app/)*  
 
 ---
 
@@ -100,16 +93,17 @@ A collaborative MERN-based task management system with drag-and-drop, real-time 
 
 ## 📫 Let's Connect
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ankit-kumar200/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
   <a href="mailto:ankit933480@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
-  <a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/web/default.svg" width="52" height="40" alt="portfolio" />
-  </a>
+<a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio" />
+</a>
+
 </div>
 
 ---
@@ -117,8 +111,6 @@ A collaborative MERN-based task management system with drag-and-drop, real-time 
 <div align="center">
 
 ### 💻 **Code. Create. Innovate.**
-
-![snake gif](https://github.com/ankitk0101/ankitk0101/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ *If you like my work, don’t forget to star the repositories!*
 
