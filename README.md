@@ -59,21 +59,21 @@ Currently pursuing **MERN stack development** at Masai School, I enjoy working w
 ### 🧭 [Habit Tracker](https://habit-traker-ankit-kumar.netlify.app/)
 Habit Tracker is a full-stack web application designed to help users build and maintain positive habits.  
 **Tech:** React, Firebase  
-📝 *[Repository](https://github.com/Ankitk0101/habit-tracking)* • 🌐 *[Live Demo](https://habit-traker-ankit-kumar.netlify.app/)*  
+📝 *[Repository](https://github.com/Ankitk0101/habit-tracking)* • 🌐 *[Live Demo](https://habit-traker-ankit-kumar.netlify.app/)* • 📘 *[README](https://github.com/Ankitk0101/habit-tracking/blob/main/README.md)*  
 
 ---
 
 ### 🌍 [TravelPath - Destination Recommendation Platform](https://destination-recommendation-platform-3.onrender.com/)
 TravelPath is a full-stack app that helps travelers plan optimal routes between destinations with multiple transport options and station details.  
 **Tech:** React.js, Node.js, Express.js, MongoDB  
-📝 *[Repository](https://github.com/Ankitk0101/Destination-Recommendation-Platform)* • 🌐 *[Live Demo](https://destination-recommendation-platform-3.onrender.com/)*  
+📝 *[Repository](https://github.com/Ankitk0101/Destination-Recommendation-Platform)* • 🌐 *[Live Demo](https://destination-recommendation-platform-3.onrender.com/)* • 📘 *[README](https://github.com/Ankitk0101/Destination-Recommendation-Platform/blob/main/README.md)*  
 
 ---
 
 ### 🏠 [Smart Home System](https://smart-home-ankit-kumar.netlify.app/)
 A React + Firebase-based smart home control system for managing device states and status in real-time.  
 **Tech:** React, Firebase  
-📝 *[Repository](https://github.com/masai-course/ankit_kumar_fs42_471001/tree/master/unit-4/BuildWeek/smartHome)* • 🌐 *[Live Demo](https://smart-home-ankit-kumar.netlify.app/)*  
+📝 *[Repository](https://github.com/masai-course/ankit_kumar_fs42_471001/tree/master/unit-4/BuildWeek/smartHome)* • 🌐 *[Live Demo](https://smart-home-ankit-kumar.netlify.app/)* • 📘 *[README](https://github.com/masai-course/ankit_kumar_fs42_471001/blob/master/unit-4/BuildWeek/smartHome/README.md)*  
 
 ---
 
@@ -99,10 +99,9 @@ A React + Firebase-based smart home control system for managing device states an
   <a href="mailto:ankit933480@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
-<a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio" />
-</a>
-
+  <a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio" />
+  </a>
 </div>
 
 ---
