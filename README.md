@@ -93,15 +93,12 @@ A React + Firebase-based smart home control system for managing device states an
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar200/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-  <a href="mailto:ankit933480@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
-  </a>
-  <a href="https://ankitkumar01-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitk0101&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ankitk0101&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitk0101&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
