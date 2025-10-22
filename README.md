@@ -78,7 +78,7 @@ A **real-time IoT dashboard** to manage and monitor smart devices with Firebase 
 Users can toggle device states and track system status visually.
 
 **Tech Stack:** React, Firebase, Context API  
-📝 [Repository](https://github.com/masai-course/ankit_kumar_fs42_471001/tree/master/unit-4/BuildWeek/smartHome) • 🌐 [Live Demo](https://smart-home-ankit-kumar.netlify.app/)  
+📝 [Repository](https://github.com/Ankitk0101/Smart-Home-Devices-Controller) • 🌐 [Live Demo](https://smart-home-ankit-kumar.netlify.app/)  
 🏷️ *Tags:* IoT • Realtime • Dashboard  
 
 ---
